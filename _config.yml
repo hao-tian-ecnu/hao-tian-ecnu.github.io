@@ -7,7 +7,7 @@ github: https://github.com/
 facebook: https://www.facebook.com/
 email: nicktian.ecnu@gmail.com
 
-baseurl: "/hao-tian-ecnu.github.io/Eng/"
+baseurl: "/hao-tian-ecnu.github.io/"
 
 permalink: /:year/:month/:day/:title/
 
